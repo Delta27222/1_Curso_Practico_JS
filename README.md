@@ -15,3 +15,10 @@
 - Segundo paso: implementar la fórmula en JS
 - Tercer paso: crear funciones 
 - Cuarto paso: integrar JS con HTML
+
+## Taller #3: promedo, mediana y moda
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmula en JS
+- Tercer paso: crear funciones 
+- Cuarto paso: integrar JS con HTML
