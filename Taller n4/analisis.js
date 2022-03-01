@@ -2,7 +2,7 @@
 function esPar(numerito) {
     return (numerito % 2 === 0);
   }
-  
+  // das
   function calcularMediaAritmetica(lista) {
     const sumaLista = lista.reduce(
       function (valorAcumulado = 0, nuevoElemento) {
